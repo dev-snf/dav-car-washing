@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Feb 2026 18:47:41 at https://autocare-html.vercel.app/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://autocare-html.vercel.app/index.html -O1 "C:\asd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:51:06	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/blog-half-img-sidebar.html (from https://autocare-html.vercel.app/index.html)
+18:51:22	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/css/inc/images/loading.GIF (from https://autocare-html.vercel.app/css/style.min.css)
+18:51:22	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C|/Users/admin/Documents/inc/images/pattern/pattern1.jpg (from https://autocare-html.vercel.app/css/style.min.css)
+18:51:26	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/blog-grid-2.html (from https://autocare-html.vercel.app/index-9.html)
+18:51:26	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/product.html (from https://autocare-html.vercel.app/full-page-gallery-dark.html)
+18:51:26	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/blog-single-sidebar.html (from https://autocare-html.vercel.app/full-page-gallery-dark.html)
+18:51:26	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/help.html (from https://autocare-html.vercel.app/full-page-gallery-dark.html)
+18:51:26	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/video.html (from https://autocare-html.vercel.app/coming-soon-1.html)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/owl-carousel/owl.video.play.png (from https://autocare-html.vercel.app/plugins/owl-carousel/owl.carousel.css)
+18:51:27	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C|/Users/admin/Documents/inc/images/pattern/pattern1.jpg (from https://autocare-html.vercel.app/css/style.min.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-bg_glass_55_fbf9ee_1x400.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-bg_glass_95_fef1ec_1x400.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-icons_222222_256x240.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-icons_888888_256x240.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-icons_454545_256x240.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-icons_2e83ff_256x240.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Not Found" (404) at link https://autocare-html.vercel.app/plugins/rangeslider/images/ui-icons_cd0a0a_256x240.png (from https://autocare-html.vercel.app/plugins/rangeslider/rangeslider.css)
+18:51:27	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C|/Users/admin/Documents/inc/images/pattern/pattern1.jpg (from https://autocare-html.vercel.app/css/style.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 46 seconds : 466 links scanned, 447 files written (33414985 bytes overall) [24676590 bytes received at 109188 bytes/sec], 11894230 bytes transferred using HTTP compression in 219 files, ratio 23%, 1.0 requests per connection
+(16 errors, 2 warnings, 0 messages)
